@@ -6,7 +6,6 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/XAH1X) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-hassen-06b610215) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17082510)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xxah1xx) 
 [![whatsapp](https://img.shields.io/badge/whatsapp-p70707000.svg?logo=Whatsapp&logoColor=white)](https://wa.me/+201010538631) 
 
 # 💻 Tech Stack:
