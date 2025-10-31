@@ -19,32 +19,6 @@ I'm a passionate full-stack developer with **4+ years of professional experience
 
 ---
 
-## 💼 Notable Projects
-
-**ERP System for Auto Parts Store**
-- Comprehensive warehouse management with inventory tracking
-- Multi-user employee management and role-based access control
-- Integrated Point of Sale (POS) system for transactions
-- Real-time stock updates and reporting
-
-**Attendance & Payroll Management System**
-- Employee appointment tracking and management
-- Integration with physical attendance machines
-- Real-time dashboard for attendance monitoring
-- Automated payroll calculation based on attendance and absence rates
-- Integrated web portal for employee self-service
-
-**Company Analytics & Engagement API**
-- Landing page visitor behavior tracking and analytics
-- Dynamic content modification based on user interactions
-- Push notifications via Firebase Cloud Messaging (FCM)
-- Customer service correspondence management
-- Consultation and course booking system
-
-*Plus numerous other private projects and client engagements*
-
----
-
 ## 🛠️ Tech Stack
 
 **Backend & Server**
